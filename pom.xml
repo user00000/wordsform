@@ -75,6 +75,18 @@
 
 <!-- faces -->
 
+<!-- PADEG -->
+<dependency>
+
+<groupId>other</groupId>
+<artifactId>padeg</artifactId>
+<version>3.3.0.24</version>
+<scope>system</scope>
+<systemPath>D:\Java_soft\jars\padeg\padeg-3.3.0.24.jar</systemPath>
+
+</dependency>
+
+<!-- padej  -->
 </dependencies>
 
 
